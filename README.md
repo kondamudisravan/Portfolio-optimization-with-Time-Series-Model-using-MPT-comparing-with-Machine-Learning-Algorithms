@@ -1,0 +1,2 @@
+# Portfolio-optimization-with-Time-Series-Model-using-MPT-comparing-with-Machine-Learning-Algorithms
+I'm K. Sravan 191921039 from IT deptartment from Saveetha School of Engineering. This is my final year project "Portfolio optimization with Time Series Model using Modern Portfolio Theory compared with other Machine Learning Algorithms with improved accuracy". This project is done under the guidence of Dr. P. Sriramya form the dept of Data Science
